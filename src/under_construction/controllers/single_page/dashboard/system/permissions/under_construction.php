@@ -5,7 +5,7 @@ defined('C5_EXECUTE') or die('Access Denied.');
 use Core;
 use Page;
 use Package;
-use Concrete\Core\Routing\URL;
+use URL;
 use Concrete\Core\Page\Controller\DashboardPageController;
 
 class UnderConstruction extends DashboardPageController

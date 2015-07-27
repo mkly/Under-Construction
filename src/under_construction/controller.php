@@ -22,7 +22,7 @@ class Controller extends Package
 
     protected $pkgHandle = 'under_construction';
     protected $appVersionRequired = '5.7.1';
-    protected $pkgVersion = '0.9.0';
+    protected $pkgVersion = '1.0.1';
 
     public function getPackageDescription()
     {
